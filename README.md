@@ -53,10 +53,10 @@
 
 ##  File Structure
 ```
-gesture_recognition/
-├── gesture_recognition.py   ← Main script
-├── requirements.txt         ← Dependencies
-└── README.md                ← This file
+├── .gitignore
+├── README.md               
+├── gesture_recognition.py            
+└── requirements.txt                 
 ```
 
 ---
