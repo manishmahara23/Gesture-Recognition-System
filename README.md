@@ -1,15 +1,15 @@
-# 🖐 Gesture Recognition System
+#  Gesture Recognition System
 ### Built with MediaPipe + OpenCV | Python
 
 ---
 
-## 📦 Requirements
+##  Requirements
 - Python 3.8 or above
 - Laptop webcam
 
 ---
 
-## ⚙️ Setup (One-time)
+##  Setup (One-time)
 
 1. **Install dependencies:**
    ```bash
@@ -25,7 +25,7 @@
 
 ---
 
-## 🤟 Recognized Gestures
+##  Recognized Gestures
 
 | Gesture        | Description                        |
 |----------------|------------------------------------|
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Webcam captures** live video frames
 2. **MediaPipe Hands** detects 21 hand landmarks per hand
@@ -51,7 +51,7 @@
 
 ---
 
-## 📁 File Structure
+##  File Structure
 ```
 gesture_recognition/
 ├── gesture_recognition.py   ← Main script
@@ -61,7 +61,7 @@ gesture_recognition/
 
 ---
 
-## 💡 Tips
+##  Tips
 - Make sure your hand is **clearly visible** in the frame
 - Good **lighting** improves detection accuracy
 - Works with **up to 2 hands** simultaneously
